@@ -1,0 +1,10 @@
+../Src/Src/I2C.c:21:6:Lcd_Init	8	static
+../Src/Src/I2C.c:53:6:set_cursor	16	static
+../Src/Src/I2C.c:81:6:send_string	24	static
+../Src/Src/I2C.c:92:6:send_cmd	16	static
+../Src/Src/I2C.c:98:6:send_ch	16	static
+../Src/Src/I2C.c:104:6:send	24	static
+../Src/Src/I2C.c:116:6:Write_4bits	16	static
+../Src/Src/I2C.c:130:6:Transmit_byte	16	static
+../Src/Src/I2C.c:195:6:GPIO_Config	4	static
+../Src/Src/I2C.c:228:7:I2C1_Config	4	static

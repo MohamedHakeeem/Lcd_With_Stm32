@@ -1,0 +1,10 @@
+I2C.c:21:6:Lcd_Init	1
+I2C.c:53:6:set_cursor	3
+I2C.c:81:6:send_string	2
+I2C.c:92:6:send_cmd	1
+I2C.c:98:6:send_ch	1
+I2C.c:104:6:send	1
+I2C.c:116:6:Write_4bits	1
+I2C.c:130:6:Transmit_byte	5
+I2C.c:195:6:GPIO_Config	1
+I2C.c:228:7:I2C1_Config	1
